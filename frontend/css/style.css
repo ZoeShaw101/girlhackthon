@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.scrollable {
+	max-height: 400px;
+	overflow-y: auto;
+}
+
+.small-scrollable {
+	max-height: 800px;
+	overflow-y: auto;
+}
+
+.mycontent-left {
+	border-right: 1px dashed #333;
+}
+
+.panel-primary {
+	margin-top: 10px;
+}

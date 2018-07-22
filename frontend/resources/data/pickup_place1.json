@@ -1,0 +1,2502 @@
+[
+  {
+    "pickup_longitude": -73.94683074951173,
+    "pickup_latitude": 40.81124877929688,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00430297851562,
+    "pickup_latitude": 40.74225616455078,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96821594238281,
+    "pickup_latitude": 40.755149841308594,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96949768066406,
+    "pickup_latitude": 40.757667541503906,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98606872558594,
+    "pickup_latitude": 40.762073516845696,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.79427337646483,
+    "pickup_latitude": 40.64484024047852,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98989868164062,
+    "pickup_latitude": 40.735515594482415,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97234344482422,
+    "pickup_latitude": 40.76008987426758,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99689483642578,
+    "pickup_latitude": 40.73695755004883,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -73.94866943359375,
+    "pickup_latitude": 40.78895568847656,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99340057373048,
+    "pickup_latitude": 40.729507446289055,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -73.97807312011719,
+    "pickup_latitude": 40.78298950195313,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95504760742188,
+    "pickup_latitude": 40.77755355834961,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9863052368164,
+    "pickup_latitude": 40.7220458984375,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98081970214844,
+    "pickup_latitude": 40.75524520874024,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96871185302734,
+    "pickup_latitude": 40.76388168334961,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.99407958984375,
+    "pickup_latitude": 40.751197814941406,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.95743560791014,
+    "pickup_latitude": 40.728515625,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.9637222290039,
+    "pickup_latitude": 40.77722930908203,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98372650146483,
+    "pickup_latitude": 40.765419006347656,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99360656738281,
+    "pickup_latitude": 40.7520637512207,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.95699310302734,
+    "pickup_latitude": 40.78337860107422,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95015716552734,
+    "pickup_latitude": 40.77135467529297,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96964263916014,
+    "pickup_latitude": 40.785003662109375,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.98331451416014,
+    "pickup_latitude": 40.77347183227539,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98853302001955,
+    "pickup_latitude": 40.764068603515625,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.97848510742188,
+    "pickup_latitude": 40.75727081298828,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.99890899658203,
+    "pickup_latitude": 40.734806060791016,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.86356353759766,
+    "pickup_latitude": 40.77008819580078,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98983001708984,
+    "pickup_latitude": 40.741302490234375,
+    "passenger_count": 4
+  },
+  {
+    "pickup_longitude": -73.98040771484375,
+    "pickup_latitude": 40.76565170288085,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96592712402342,
+    "pickup_latitude": 40.76240158081055,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99044799804686,
+    "pickup_latitude": 40.75672149658203,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00495147705078,
+    "pickup_latitude": 40.7418098449707,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.86346435546875,
+    "pickup_latitude": 40.76991271972656,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.98487854003906,
+    "pickup_latitude": 40.74229049682617,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98974609375,
+    "pickup_latitude": 40.73880386352539,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99156951904298,
+    "pickup_latitude": 40.74958419799805,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98995208740234,
+    "pickup_latitude": 40.73410034179688,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98760223388672,
+    "pickup_latitude": 40.75040817260742,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98446655273438,
+    "pickup_latitude": 40.72897720336913,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.97658538818358,
+    "pickup_latitude": 40.76375198364258,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98551940917969,
+    "pickup_latitude": 40.773033142089844,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97825622558594,
+    "pickup_latitude": 40.752296447753906,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96759033203125,
+    "pickup_latitude": 40.80310821533203,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -73.87316131591797,
+    "pickup_latitude": 40.77421188354492,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00199127197266,
+    "pickup_latitude": 40.73794937133789,
+    "passenger_count": 4
+  },
+  {
+    "pickup_longitude": -73.95796966552734,
+    "pickup_latitude": 40.77294158935547,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98607635498048,
+    "pickup_latitude": 40.72648620605469,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98309326171875,
+    "pickup_latitude": 40.73883056640625,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98736572265625,
+    "pickup_latitude": 40.735748291015625,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98704528808595,
+    "pickup_latitude": 40.750831604003906,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.9916000366211,
+    "pickup_latitude": 40.74997329711913,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98086547851562,
+    "pickup_latitude": 40.74273681640625,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97875213623048,
+    "pickup_latitude": 40.745018005371094,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99484252929686,
+    "pickup_latitude": 40.7313232421875,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97518157958984,
+    "pickup_latitude": 40.76539993286133,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00562286376955,
+    "pickup_latitude": 40.71837997436523,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.9835433959961,
+    "pickup_latitude": 40.77116394042969,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96993255615234,
+    "pickup_latitude": 40.75701141357422,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.86348724365234,
+    "pickup_latitude": 40.76955032348633,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9846420288086,
+    "pickup_latitude": 40.728679656982415,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97801971435547,
+    "pickup_latitude": 40.786277770996094,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00007629394531,
+    "pickup_latitude": 40.67848205566406,
+    "passenger_count": 4
+  },
+  {
+    "pickup_longitude": -73.99443054199219,
+    "pickup_latitude": 40.689979553222656,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95440673828125,
+    "pickup_latitude": 40.77815628051758,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96300506591797,
+    "pickup_latitude": 40.7625846862793,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.96885681152342,
+    "pickup_latitude": 40.770057678222656,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.87499237060547,
+    "pickup_latitude": 40.773868560791016,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -73.97138977050781,
+    "pickup_latitude": 40.76158142089844,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97146606445312,
+    "pickup_latitude": 40.746192932128906,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00737762451173,
+    "pickup_latitude": 40.71320724487305,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95262908935547,
+    "pickup_latitude": 40.776458740234375,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98834991455078,
+    "pickup_latitude": 40.749698638916016,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98944091796875,
+    "pickup_latitude": 40.73970031738281,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95586395263672,
+    "pickup_latitude": 40.78069686889648,
+    "passenger_count": 4
+  },
+  {
+    "pickup_longitude": -73.98212432861328,
+    "pickup_latitude": 40.77399826049805,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97770690917969,
+    "pickup_latitude": 40.763771057128906,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.98980712890625,
+    "pickup_latitude": 40.75666809082031,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9849624633789,
+    "pickup_latitude": 40.76839065551758,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99057006835938,
+    "pickup_latitude": 40.75621032714844,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.96652984619139,
+    "pickup_latitude": 40.764198303222656,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97467041015625,
+    "pickup_latitude": 40.78806686401367,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99037170410156,
+    "pickup_latitude": 40.756107330322266,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99178314208984,
+    "pickup_latitude": 40.73858642578125,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9646987915039,
+    "pickup_latitude": 40.75578689575195,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96910858154298,
+    "pickup_latitude": 40.75447082519531,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9731216430664,
+    "pickup_latitude": 40.74290084838867,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97486877441406,
+    "pickup_latitude": 40.75151062011719,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95001220703125,
+    "pickup_latitude": 40.77168273925781,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97875213623048,
+    "pickup_latitude": 40.78557586669922,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96991729736328,
+    "pickup_latitude": 40.76240158081055,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.99187469482422,
+    "pickup_latitude": 40.75493621826172,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00461578369139,
+    "pickup_latitude": 40.73062515258789,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96340179443358,
+    "pickup_latitude": 40.76604461669922,
+    "passenger_count": 4
+  },
+  {
+    "pickup_longitude": -73.97753143310547,
+    "pickup_latitude": 40.75555038452149,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.86347961425781,
+    "pickup_latitude": 40.76957321166992,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -74.00308227539062,
+    "pickup_latitude": 40.71820068359375,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96583557128906,
+    "pickup_latitude": 40.7740364074707,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9764175415039,
+    "pickup_latitude": 40.78081130981445,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98448944091797,
+    "pickup_latitude": 40.76495361328125,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00135803222656,
+    "pickup_latitude": 40.76218032836913,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.01557159423827,
+    "pickup_latitude": 40.71149063110352,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99214935302734,
+    "pickup_latitude": 40.7548713684082,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.95037841796875,
+    "pickup_latitude": 40.77559280395508,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.78948974609375,
+    "pickup_latitude": 40.647071838378906,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95832061767578,
+    "pickup_latitude": 40.71340942382813,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.98182678222656,
+    "pickup_latitude": 40.77032852172852,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98209381103516,
+    "pickup_latitude": 40.774505615234375,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -74.0087661743164,
+    "pickup_latitude": 40.71383666992188,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.99318695068358,
+    "pickup_latitude": 40.74728012084961,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00528717041014,
+    "pickup_latitude": 40.740421295166016,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99144744873048,
+    "pickup_latitude": 40.74948120117188,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9786605834961,
+    "pickup_latitude": 40.73674011230469,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98155212402342,
+    "pickup_latitude": 40.75770568847656,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.86353302001955,
+    "pickup_latitude": 40.76912307739258,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98373413085938,
+    "pickup_latitude": 40.74588012695313,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.94525146484375,
+    "pickup_latitude": 40.78664016723633,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.966552734375,
+    "pickup_latitude": 40.75764846801758,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -73.99549865722656,
+    "pickup_latitude": 40.725074768066406,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -74.0059051513672,
+    "pickup_latitude": 40.736152648925774,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.78271484375,
+    "pickup_latitude": 40.6444091796875,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98002624511719,
+    "pickup_latitude": 40.76536178588867,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97030639648438,
+    "pickup_latitude": 40.76492309570313,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.789794921875,
+    "pickup_latitude": 40.64368057250977,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99574279785155,
+    "pickup_latitude": 40.75920104980469,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -73.99072265625,
+    "pickup_latitude": 40.7609977722168,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.87307739257811,
+    "pickup_latitude": 40.77427291870117,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.98270416259766,
+    "pickup_latitude": 40.761940002441406,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -74.00170135498048,
+    "pickup_latitude": 40.73055648803711,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.9996337890625,
+    "pickup_latitude": 40.71184158325195,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -74.00762939453125,
+    "pickup_latitude": 40.723289489746094,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -73.99259948730467,
+    "pickup_latitude": 40.723819732666016,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.98709869384766,
+    "pickup_latitude": 40.73930740356445,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -73.9903793334961,
+    "pickup_latitude": 40.75910949707031,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95789337158203,
+    "pickup_latitude": 40.76946258544922,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.97343444824219,
+    "pickup_latitude": 40.743988037109375,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96572875976562,
+    "pickup_latitude": 40.77288818359375,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.98870086669923,
+    "pickup_latitude": 40.76335525512695,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9538803100586,
+    "pickup_latitude": 40.788002014160156,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96025848388672,
+    "pickup_latitude": 40.77624130249024,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98275756835938,
+    "pickup_latitude": 40.74372100830078,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00273895263672,
+    "pickup_latitude": 40.72868347167969,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.9869384765625,
+    "pickup_latitude": 40.74716567993164,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.0047607421875,
+    "pickup_latitude": 40.73769760131836,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95549011230467,
+    "pickup_latitude": 40.76435852050781,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -73.97091674804686,
+    "pickup_latitude": 40.75818252563477,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.98583221435547,
+    "pickup_latitude": 40.762794494628906,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99195861816406,
+    "pickup_latitude": 40.7256088256836,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.01109313964845,
+    "pickup_latitude": 40.71556854248047,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9557113647461,
+    "pickup_latitude": 40.772254943847656,
+    "passenger_count": 4
+  },
+  {
+    "pickup_longitude": -74.00444793701173,
+    "pickup_latitude": 40.7076301574707,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.94734954833984,
+    "pickup_latitude": 40.74814987182617,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99092864990234,
+    "pickup_latitude": 40.75105667114258,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.97682189941406,
+    "pickup_latitude": 40.7765998840332,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9776840209961,
+    "pickup_latitude": 40.75212860107422,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9913330078125,
+    "pickup_latitude": 40.75028991699219,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97952270507811,
+    "pickup_latitude": 40.76602554321289,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.974365234375,
+    "pickup_latitude": 40.76071166992188,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97947692871094,
+    "pickup_latitude": 40.73987579345703,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.9944076538086,
+    "pickup_latitude": 40.74589538574219,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.9987030029297,
+    "pickup_latitude": 40.76083755493164,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98468017578125,
+    "pickup_latitude": 40.74502182006836,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98820495605469,
+    "pickup_latitude": 40.75497055053711,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99510955810547,
+    "pickup_latitude": 40.72530364990234,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9570770263672,
+    "pickup_latitude": 40.76240158081055,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -73.9879608154297,
+    "pickup_latitude": 40.72048950195313,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.78195953369139,
+    "pickup_latitude": 40.64466094970703,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96764373779298,
+    "pickup_latitude": 40.762939453125,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97784423828125,
+    "pickup_latitude": 40.75230026245117,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.96613311767578,
+    "pickup_latitude": 40.75845718383789,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98355102539062,
+    "pickup_latitude": 40.72663497924805,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9680938720703,
+    "pickup_latitude": 40.762393951416016,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97382354736328,
+    "pickup_latitude": 40.76324844360352,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00347137451173,
+    "pickup_latitude": 40.74742126464844,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -73.96253967285155,
+    "pickup_latitude": 40.75884628295898,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.93685150146483,
+    "pickup_latitude": 40.79844284057617,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97964477539062,
+    "pickup_latitude": 40.73311233520508,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -74.0099105834961,
+    "pickup_latitude": 40.720741271972656,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.95555114746094,
+    "pickup_latitude": 40.77684783935547,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96420288085938,
+    "pickup_latitude": 40.75730514526367,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96754455566406,
+    "pickup_latitude": 40.78781509399415,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.7900390625,
+    "pickup_latitude": 40.64691925048828,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98575592041014,
+    "pickup_latitude": 40.76324081420898,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99305725097656,
+    "pickup_latitude": 40.74270248413085,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98764038085938,
+    "pickup_latitude": 40.76013565063477,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96194458007811,
+    "pickup_latitude": 40.82058715820313,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99224853515625,
+    "pickup_latitude": 40.75495529174805,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95587921142578,
+    "pickup_latitude": 40.772159576416016,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.99120330810547,
+    "pickup_latitude": 40.73411178588867,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96319580078125,
+    "pickup_latitude": 40.76238632202149,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97640991210938,
+    "pickup_latitude": 40.751243591308594,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98609924316406,
+    "pickup_latitude": 40.76756286621094,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97647857666014,
+    "pickup_latitude": 40.75677490234375,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.98213958740234,
+    "pickup_latitude": 40.7557487487793,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -74.01734924316406,
+    "pickup_latitude": 40.70822143554688,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.9563217163086,
+    "pickup_latitude": 40.76332092285156,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99407958984375,
+    "pickup_latitude": 40.7512092590332,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9691848754883,
+    "pickup_latitude": 40.76675033569336,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.97808074951173,
+    "pickup_latitude": 40.763519287109375,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.0069808959961,
+    "pickup_latitude": 40.74371719360352,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.0030288696289,
+    "pickup_latitude": 40.72510147094727,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95851135253906,
+    "pickup_latitude": 40.77220916748047,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -73.9900894165039,
+    "pickup_latitude": 40.72945022583008,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99772644042969,
+    "pickup_latitude": 40.72602081298828,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9560317993164,
+    "pickup_latitude": 40.77117538452149,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.98377227783203,
+    "pickup_latitude": 40.77070236206055,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97189331054686,
+    "pickup_latitude": 40.79393005371094,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.9517822265625,
+    "pickup_latitude": 40.78485107421875,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9871826171875,
+    "pickup_latitude": 40.73920822143555,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -73.95288848876955,
+    "pickup_latitude": 40.78625869750977,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9713134765625,
+    "pickup_latitude": 40.76379776000977,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98448181152342,
+    "pickup_latitude": 40.75096893310547,
+    "passenger_count": 4
+  },
+  {
+    "pickup_longitude": -73.98229217529298,
+    "pickup_latitude": 40.77156066894531,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.9711685180664,
+    "pickup_latitude": 40.79348754882813,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96957397460938,
+    "pickup_latitude": 40.76032638549805,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95626831054686,
+    "pickup_latitude": 40.78082656860352,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95914459228516,
+    "pickup_latitude": 40.771797180175774,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95097351074219,
+    "pickup_latitude": 40.77487564086913,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9591293334961,
+    "pickup_latitude": 40.80932235717773,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.86358642578125,
+    "pickup_latitude": 40.76985168457031,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.97847747802734,
+    "pickup_latitude": 40.763160705566406,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99525451660156,
+    "pickup_latitude": 40.7396354675293,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95812225341797,
+    "pickup_latitude": 40.67964553833008,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00682830810547,
+    "pickup_latitude": 40.7329216003418,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98845672607422,
+    "pickup_latitude": 40.76939010620117,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96575164794923,
+    "pickup_latitude": 40.79547119140625,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97679138183594,
+    "pickup_latitude": 40.75041961669922,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99352264404298,
+    "pickup_latitude": 40.74983978271485,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.78191375732422,
+    "pickup_latitude": 40.64458847045898,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95297241210938,
+    "pickup_latitude": 40.76763153076172,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98603820800781,
+    "pickup_latitude": 40.75707626342773,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95695495605469,
+    "pickup_latitude": 40.81267929077149,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95401000976562,
+    "pickup_latitude": 40.77291870117188,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.98722839355469,
+    "pickup_latitude": 40.76071548461913,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.8626251220703,
+    "pickup_latitude": 40.76882553100585,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00574493408203,
+    "pickup_latitude": 40.725502014160156,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9913330078125,
+    "pickup_latitude": 40.74959182739258,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -73.98350524902342,
+    "pickup_latitude": 40.75888442993164,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.97396850585938,
+    "pickup_latitude": 40.758655548095696,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.94002532958984,
+    "pickup_latitude": 40.75059509277344,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99419403076173,
+    "pickup_latitude": 40.76637268066406,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.970703125,
+    "pickup_latitude": 40.755638122558594,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97146606445312,
+    "pickup_latitude": 40.760986328125,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.98281860351562,
+    "pickup_latitude": 40.764503479003906,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98883056640625,
+    "pickup_latitude": 40.74789810180664,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99171447753906,
+    "pickup_latitude": 40.74980926513672,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99163818359375,
+    "pickup_latitude": 40.73833084106445,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99884796142578,
+    "pickup_latitude": 40.68101501464844,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.95963287353516,
+    "pickup_latitude": 40.80889892578125,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99508666992188,
+    "pickup_latitude": 40.73981094360352,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95068359375,
+    "pickup_latitude": 40.774940490722656,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -73.99635314941406,
+    "pickup_latitude": 40.75332260131836,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99412536621094,
+    "pickup_latitude": 40.751140594482415,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.01026153564453,
+    "pickup_latitude": 40.7052116394043,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00829315185547,
+    "pickup_latitude": 40.738224029541016,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.94618225097656,
+    "pickup_latitude": 40.77547836303711,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99639892578125,
+    "pickup_latitude": 40.743328094482415,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97727966308595,
+    "pickup_latitude": 40.750221252441406,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99325561523438,
+    "pickup_latitude": 40.72960662841797,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -74.00286865234375,
+    "pickup_latitude": 40.739570617675774,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98244476318358,
+    "pickup_latitude": 40.775169372558594,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96118927001955,
+    "pickup_latitude": 40.76066589355469,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.99183654785155,
+    "pickup_latitude": 40.722354888916016,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99289703369139,
+    "pickup_latitude": 40.74700164794922,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97761535644531,
+    "pickup_latitude": 40.786933898925774,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9850311279297,
+    "pickup_latitude": 40.73242950439453,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.78227996826173,
+    "pickup_latitude": 40.64459991455078,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.97041320800781,
+    "pickup_latitude": 40.75971221923828,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98728942871094,
+    "pickup_latitude": 40.73344802856445,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97110748291014,
+    "pickup_latitude": 40.75551986694336,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97721099853516,
+    "pickup_latitude": 40.75172805786133,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97189331054686,
+    "pickup_latitude": 40.78702163696289,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.97539520263672,
+    "pickup_latitude": 40.745365142822266,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.94380950927734,
+    "pickup_latitude": 40.74642181396485,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -74.00180053710938,
+    "pickup_latitude": 40.7336311340332,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97903442382812,
+    "pickup_latitude": 40.76278305053711,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96810150146483,
+    "pickup_latitude": 40.75532150268555,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96092224121094,
+    "pickup_latitude": 40.760738372802734,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98348999023438,
+    "pickup_latitude": 40.75128555297852,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98002624511719,
+    "pickup_latitude": 40.75975036621094,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96772766113281,
+    "pickup_latitude": 40.76570129394531,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99417114257811,
+    "pickup_latitude": 40.75111770629883,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9637451171875,
+    "pickup_latitude": 40.77123641967773,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97615051269531,
+    "pickup_latitude": 40.74899291992188,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00468444824219,
+    "pickup_latitude": 40.74188232421875,
+    "passenger_count": 4
+  },
+  {
+    "pickup_longitude": -73.99342346191406,
+    "pickup_latitude": 40.72103118896485,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -73.87303924560547,
+    "pickup_latitude": 40.77409362792969,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97666931152342,
+    "pickup_latitude": 40.78554916381836,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99734497070312,
+    "pickup_latitude": 40.71912002563477,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.91893768310547,
+    "pickup_latitude": 40.69892120361328,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.95536804199219,
+    "pickup_latitude": 40.77698516845703,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99229431152342,
+    "pickup_latitude": 40.72488021850585,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.94505310058594,
+    "pickup_latitude": 40.77845764160156,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97407531738281,
+    "pickup_latitude": 40.730873107910156,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96830749511719,
+    "pickup_latitude": 40.75091552734375,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97982025146483,
+    "pickup_latitude": 40.776100158691406,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -73.98434448242188,
+    "pickup_latitude": 40.767311096191406,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9827423095703,
+    "pickup_latitude": 40.7783203125,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.9473648071289,
+    "pickup_latitude": 40.779651641845696,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.98155975341797,
+    "pickup_latitude": 40.767478942871094,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -74.00609588623048,
+    "pickup_latitude": 40.706092834472656,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00324249267578,
+    "pickup_latitude": 40.722129821777344,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99118041992188,
+    "pickup_latitude": 40.74986267089844,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98020935058595,
+    "pickup_latitude": 40.765567779541016,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99493408203125,
+    "pickup_latitude": 40.731712341308594,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.97343444824219,
+    "pickup_latitude": 40.75786590576172,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96427154541014,
+    "pickup_latitude": 40.762451171875,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -73.96456909179686,
+    "pickup_latitude": 40.76431274414063,
+    "passenger_count": 4
+  },
+  {
+    "pickup_longitude": -73.96527099609375,
+    "pickup_latitude": 40.75928497314453,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95501708984375,
+    "pickup_latitude": 40.73366928100585,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9778823852539,
+    "pickup_latitude": 40.745948791503906,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9769287109375,
+    "pickup_latitude": 40.73929977416992,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.009765625,
+    "pickup_latitude": 40.71278381347656,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95812225341797,
+    "pickup_latitude": 40.7080078125,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98431396484375,
+    "pickup_latitude": 40.74908065795898,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96520233154298,
+    "pickup_latitude": 40.75939178466797,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98371124267578,
+    "pickup_latitude": 40.73411178588867,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98080444335938,
+    "pickup_latitude": 40.75970458984375,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99806213378906,
+    "pickup_latitude": 40.7212028503418,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98821258544923,
+    "pickup_latitude": 40.74132537841797,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.01354217529298,
+    "pickup_latitude": 40.71361923217773,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.78982543945312,
+    "pickup_latitude": 40.64680099487305,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97199249267578,
+    "pickup_latitude": 40.78214645385742,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97404479980467,
+    "pickup_latitude": 40.7503318786621,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00469207763672,
+    "pickup_latitude": 40.73751068115234,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97811126708984,
+    "pickup_latitude": 40.73768997192383,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.99356842041014,
+    "pickup_latitude": 40.72105026245117,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96597290039062,
+    "pickup_latitude": 40.75857925415039,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.98109436035155,
+    "pickup_latitude": 40.75440216064453,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -73.98737335205078,
+    "pickup_latitude": 40.76227569580078,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.99174499511719,
+    "pickup_latitude": 40.74437713623047,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97830963134766,
+    "pickup_latitude": 40.748062133789055,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98863220214844,
+    "pickup_latitude": 40.748531341552734,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9586181640625,
+    "pickup_latitude": 40.76010513305664,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98694610595702,
+    "pickup_latitude": 40.72096633911133,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00592041015625,
+    "pickup_latitude": 40.74211883544922,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96485137939453,
+    "pickup_latitude": 40.76654052734375,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.012939453125,
+    "pickup_latitude": 40.70797348022461,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9563751220703,
+    "pickup_latitude": 40.74756240844727,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97669982910156,
+    "pickup_latitude": 40.764991760253906,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -74.00475311279298,
+    "pickup_latitude": 40.742000579833984,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99029541015625,
+    "pickup_latitude": 40.7566032409668,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9805679321289,
+    "pickup_latitude": 40.73026657104492,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.96044921875,
+    "pickup_latitude": 40.77553939819336,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98992919921875,
+    "pickup_latitude": 40.76223373413085,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00789642333984,
+    "pickup_latitude": 40.70574951171875,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.97054290771484,
+    "pickup_latitude": 40.796741485595696,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99004364013672,
+    "pickup_latitude": 40.75724411010742,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97073364257811,
+    "pickup_latitude": 40.79861831665039,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97425842285155,
+    "pickup_latitude": 40.79165649414063,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -74.00643157958984,
+    "pickup_latitude": 40.7330207824707,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.9767837524414,
+    "pickup_latitude": 40.76502227783203,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97694396972656,
+    "pickup_latitude": 40.753639221191406,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99059295654298,
+    "pickup_latitude": 40.73468399047852,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98556518554686,
+    "pickup_latitude": 40.763099670410156,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.99556732177734,
+    "pickup_latitude": 40.76469039916992,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -73.98336029052734,
+    "pickup_latitude": 40.74438095092773,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98501586914062,
+    "pickup_latitude": 40.73630142211913,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96627044677734,
+    "pickup_latitude": 40.76179122924805,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98584747314453,
+    "pickup_latitude": 40.75782012939453,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.9706802368164,
+    "pickup_latitude": 40.7478141784668,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98155975341797,
+    "pickup_latitude": 40.781158447265625,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9736099243164,
+    "pickup_latitude": 40.75055313110352,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9769515991211,
+    "pickup_latitude": 40.75887680053711,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97206115722656,
+    "pickup_latitude": 40.7542839050293,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00366973876955,
+    "pickup_latitude": 40.74275588989258,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9984130859375,
+    "pickup_latitude": 40.7199592590332,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9478988647461,
+    "pickup_latitude": 40.77878189086913,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99259185791014,
+    "pickup_latitude": 40.76338577270508,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -73.95771026611328,
+    "pickup_latitude": 40.761451721191406,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00064086914062,
+    "pickup_latitude": 40.74626541137695,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.99571990966798,
+    "pickup_latitude": 40.73062133789063,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9966812133789,
+    "pickup_latitude": 40.73748397827149,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.95771789550781,
+    "pickup_latitude": 40.766956329345696,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98641967773438,
+    "pickup_latitude": 40.75608825683594,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95342254638672,
+    "pickup_latitude": 40.78670883178711,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.97062683105469,
+    "pickup_latitude": 40.76741027832031,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.98078155517578,
+    "pickup_latitude": 40.76509094238281,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9756317138672,
+    "pickup_latitude": 40.7606315612793,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -73.99050903320312,
+    "pickup_latitude": 40.71445083618164,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -74.01506042480467,
+    "pickup_latitude": 40.70934677124024,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.01016998291014,
+    "pickup_latitude": 40.711341857910156,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97978210449219,
+    "pickup_latitude": 40.77790069580078,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99002075195312,
+    "pickup_latitude": 40.7606201171875,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99333953857422,
+    "pickup_latitude": 40.724517822265625,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98217010498048,
+    "pickup_latitude": 40.75569152832031,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99467468261719,
+    "pickup_latitude": 40.74033737182617,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.97745513916014,
+    "pickup_latitude": 40.75841522216797,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -74.01009368896483,
+    "pickup_latitude": 40.719890594482415,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00263977050781,
+    "pickup_latitude": 40.73947143554688,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -73.96089172363281,
+    "pickup_latitude": 40.769474029541016,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97692108154298,
+    "pickup_latitude": 40.75617980957031,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99212646484375,
+    "pickup_latitude": 40.725940704345696,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97042083740234,
+    "pickup_latitude": 40.76793670654297,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.98417663574219,
+    "pickup_latitude": 40.745918273925774,
+    "passenger_count": 4
+  },
+  {
+    "pickup_longitude": -73.96025085449219,
+    "pickup_latitude": 40.79789352416992,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98274993896483,
+    "pickup_latitude": 40.76507568359375,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95947265625,
+    "pickup_latitude": 40.774227142333984,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -73.95455169677734,
+    "pickup_latitude": 40.7642707824707,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9513931274414,
+    "pickup_latitude": 40.77009963989258,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -73.99747467041014,
+    "pickup_latitude": 40.72624206542969,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99434661865234,
+    "pickup_latitude": 40.751014709472656,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95565795898438,
+    "pickup_latitude": 40.776180267333984,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96236419677734,
+    "pickup_latitude": 40.77038192749024,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99928283691406,
+    "pickup_latitude": 40.76293182373047,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96114349365234,
+    "pickup_latitude": 40.76909637451172,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -74.0022735595703,
+    "pickup_latitude": 40.75034713745117,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9593048095703,
+    "pickup_latitude": 40.76758575439453,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00144958496094,
+    "pickup_latitude": 40.74679565429688,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97557067871094,
+    "pickup_latitude": 40.75165557861328,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97171783447266,
+    "pickup_latitude": 40.75481414794922,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96896362304686,
+    "pickup_latitude": 40.75778579711913,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9657211303711,
+    "pickup_latitude": 40.758705139160156,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00740814208984,
+    "pickup_latitude": 40.74116897583008,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97926330566406,
+    "pickup_latitude": 40.754825592041016,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9993438720703,
+    "pickup_latitude": 40.75437545776367,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9671173095703,
+    "pickup_latitude": 40.75660705566406,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -73.97499084472656,
+    "pickup_latitude": 40.782562255859375,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.9979476928711,
+    "pickup_latitude": 40.74079132080078,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98841857910156,
+    "pickup_latitude": 40.75916290283203,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96456146240234,
+    "pickup_latitude": 40.7729606628418,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00543212890625,
+    "pickup_latitude": 40.73994827270508,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98767852783203,
+    "pickup_latitude": 40.73266220092773,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.87451934814453,
+    "pickup_latitude": 40.77397537231445,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.870849609375,
+    "pickup_latitude": 40.77373123168945,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.87081146240234,
+    "pickup_latitude": 40.77378463745117,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9890365600586,
+    "pickup_latitude": 40.73659133911133,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97061157226562,
+    "pickup_latitude": 40.796241760253906,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97776794433594,
+    "pickup_latitude": 40.752342224121094,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9859848022461,
+    "pickup_latitude": 40.759071350097656,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98387145996094,
+    "pickup_latitude": 40.7736701965332,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9990005493164,
+    "pickup_latitude": 40.73181915283203,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -74.00703430175781,
+    "pickup_latitude": 40.734336853027344,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.87346649169923,
+    "pickup_latitude": 40.774024963378906,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.01580810546875,
+    "pickup_latitude": 40.71112823486328,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97557067871094,
+    "pickup_latitude": 40.7523307800293,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98778533935547,
+    "pickup_latitude": 40.738277435302734,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.94844055175781,
+    "pickup_latitude": 40.77421188354492,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.94857788085938,
+    "pickup_latitude": 40.782020568847656,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.97460174560547,
+    "pickup_latitude": 40.78311538696289,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00186920166014,
+    "pickup_latitude": 40.74604034423828,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96073913574219,
+    "pickup_latitude": 40.76573181152344,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97505187988281,
+    "pickup_latitude": 40.79265975952149,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96308898925781,
+    "pickup_latitude": 40.793983459472656,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95208740234375,
+    "pickup_latitude": 40.78437042236328,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99402618408203,
+    "pickup_latitude": 40.72056198120117,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99272918701173,
+    "pickup_latitude": 40.74298095703125,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.0105972290039,
+    "pickup_latitude": 40.711441040039055,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9781265258789,
+    "pickup_latitude": 40.74241638183594,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.9988784790039,
+    "pickup_latitude": 40.74452209472656,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95106506347656,
+    "pickup_latitude": 40.778892517089844,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98776245117188,
+    "pickup_latitude": 40.75519943237305,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -74.00657653808594,
+    "pickup_latitude": 40.720951080322266,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.00687408447266,
+    "pickup_latitude": 40.72960662841797,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9894027709961,
+    "pickup_latitude": 40.76811599731445,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.86399078369139,
+    "pickup_latitude": 40.77006149291992,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98863220214844,
+    "pickup_latitude": 40.72264099121094,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.99429321289062,
+    "pickup_latitude": 40.76112365722656,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9734115600586,
+    "pickup_latitude": 40.779640197753906,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.01473236083984,
+    "pickup_latitude": 40.71416091918945,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9635238647461,
+    "pickup_latitude": 40.8087272644043,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99474334716798,
+    "pickup_latitude": 40.74036026000977,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96329498291014,
+    "pickup_latitude": 40.75809097290039,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.87084197998048,
+    "pickup_latitude": 40.773738861083984,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9751968383789,
+    "pickup_latitude": 40.75347137451172,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9949951171875,
+    "pickup_latitude": 40.72144317626953,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.99178314208984,
+    "pickup_latitude": 40.72603988647461,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9793472290039,
+    "pickup_latitude": 40.78170776367188,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98628234863281,
+    "pickup_latitude": 40.73852157592773,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.92855072021484,
+    "pickup_latitude": 40.6671257019043,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9681625366211,
+    "pickup_latitude": 40.7562255859375,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.98077392578125,
+    "pickup_latitude": 40.764686584472656,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98851013183594,
+    "pickup_latitude": 40.7314338684082,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99080657958984,
+    "pickup_latitude": 40.766090393066406,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9592514038086,
+    "pickup_latitude": 40.77438735961913,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99582672119139,
+    "pickup_latitude": 40.71577072143555,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98193359375,
+    "pickup_latitude": 40.75155258178711,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98700714111328,
+    "pickup_latitude": 40.760902404785156,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.01365661621094,
+    "pickup_latitude": 40.71513748168945,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97425079345702,
+    "pickup_latitude": 40.761962890625,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9754867553711,
+    "pickup_latitude": 40.75941848754883,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98423767089844,
+    "pickup_latitude": 40.7598876953125,
+    "passenger_count": 5
+  },
+  {
+    "pickup_longitude": -73.98357391357422,
+    "pickup_latitude": 40.749866485595696,
+    "passenger_count": 6
+  },
+  {
+    "pickup_longitude": -73.94733428955078,
+    "pickup_latitude": 40.74821472167969,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98220825195312,
+    "pickup_latitude": 40.78303527832031,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9990692138672,
+    "pickup_latitude": 40.73931503295898,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99227905273438,
+    "pickup_latitude": 40.72516632080078,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -73.98800659179686,
+    "pickup_latitude": 40.75777816772461,
+    "passenger_count": 3
+  },
+  {
+    "pickup_longitude": -73.96420288085938,
+    "pickup_latitude": 40.75542068481445,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97557830810547,
+    "pickup_latitude": 40.7503776550293,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95646667480467,
+    "pickup_latitude": 40.76712036132813,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.95465850830078,
+    "pickup_latitude": 40.77310562133789,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.97007751464845,
+    "pickup_latitude": 40.75973129272461,
+    "passenger_count": 2
+  },
+  {
+    "pickup_longitude": -74.0021743774414,
+    "pickup_latitude": 40.7454490661621,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.96703338623048,
+    "pickup_latitude": 40.75667572021485,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.98591613769531,
+    "pickup_latitude": 40.752723693847656,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -74.0043411254883,
+    "pickup_latitude": 40.73796844482422,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.99443817138672,
+    "pickup_latitude": 40.76091384887695,
+    "passenger_count": 1
+  },
+  {
+    "pickup_longitude": -73.9854736328125,
+    "pickup_latitude": 40.747520446777344,
+    "passenger_count": 1
+  }
+]

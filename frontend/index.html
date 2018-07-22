@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Simple Map</title>
+  <meta name="viewport" content="initial-scale=1.0">
+  <meta charset="utf-8">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css">
+  <link href="./css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
+
+  <style>
+    /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+
+    #map {
+      height: 100%;
+    }
+
+    /* Optional: Makes the sample page fill the window. */
+
+    html,
+    body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01"
+      aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+      <a class="navbar-brand" href="#">Google Hackathon</a>
+      <ul class="navbar-nav mr-auto mt-2">
+         <li class="nav-item active">
+          <button class="nav-link btn btn-outline-success" style="margin-right: 2px" href="#" onclick="toggleHeatmap()">HeatMap</button>
+        </li>
+        <li class="nav-item active">
+          <button class="nav-link btn btn-outline-success" style="margin-right: 2px" href="#" onclick="takecar()">Start Trip</button>
+        </li>
+        <li class="nav-item active">
+          <button class="nav-link btn btn-outline-success" style="margin-right: 2px" href="#" onclick="pickacustomer()">Pick Passenger</button>
+        </li>
+        <li class="nav-item active">
+          <button class="nav-link btn btn-outline-success" style="margin-right: 2px" href="#" onclick="clearMap()">Clear</button>
+        </li>
+      </ul>
+      <form class="form-inline my-2 my-lg-0">
+        Start:
+        <input type='text' class="form-control mr-sm-1" id="start" /> End:
+        <input type='text' class="form-control mr-sm-1" id="end" />
+
+        <!-- <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search"> -->
+        <button id="btnstart" class=" btn btn-outline-success my-2 my-sm-0 ">History Trip</button>
+      </form>
+    </div>
+  </nav>
+  <div id="map"></div>
+  <script>
+    var start_time;
+    var end_time;
+    $(function () {
+      $('#start').datetimepicker({
+        format: 'yyyy-mm-dd hh:ii',
+        language: 'zh-CN',
+        autoclose: true
+      }).on('changeDate',
+        function (ev) {
+          var date = ev.date;
+          console.info(ev);
+          var month = date.getMonth() + 1;
+          start_time = date.getFullYear() + "-" + month + "-" + date.getDate() + " " + date.getHours() + ":" +
+            date.getMinutes() + ":" + date.getSeconds();
+          console.info(start_time);
+        });
+      $('#end').datetimepicker({
+        format: 'yyyy-mm-dd hh:ii',
+        language: 'zh-CN',
+        autoclose: true
+      }).on('changeDate', function (ev) {
+        console.info(ev.date);
+      });
+    });
+    var map, heatmap, page, flightPath, path, trips;
+    var polyline = [];
+    var marks = [];
+
+    function initMap() {
+      map = new google.maps.Map(document.getElementById('map'), {
+        center: {
+          lat: 40.755149841308594,
+          lng: -73.96821594238281
+        },
+        zoom: 16
+      });
+
+      heatmap = new google.maps.visualization.HeatmapLayer({
+        radius: 10,
+        data: getPoints()
+      });
+
+      poly = new google.maps.Polyline({
+        strokeColor: '#000000',
+        strokeOpacity: 1.0,
+        strokeWeight: 3
+      });
+      poly.setMap(map);
+    }
+
+
+    function toggleHeatmap() {
+      heatmap.setMap(heatmap.getMap() ? null : map);
+    }
+
+     function clearMap(){
+      for (var i = 0; i < polyline.length; i++) {
+        polyline[i].setMap(null);
+      }
+
+      for (var i = 0; i < marks.length; i++) {
+        marks[i].setMap(null);
+      }
+    }
+
+    var data = {
+      "start_time": "2016-01-01 09:00:00",
+      "end_time": "2016-01-01 18:30:00"
+    };
+
+    $('#btnstart').click(function () {
+      alert("btn click");
+      // if (polyline != null) {
+      // window.clearInterval();
+      //   for (var i = 0; i < polyline.length; i++) {
+      //     polyline[i].setMap(null);
+      //   }
+      // }
+      // var num = Math.round(Math.random() * 20);
+      // console.info(num);
+      // window.setInterval(getTrips, 1000 * num);
+      // page = 9;
+      getTrips();
+      // console.info(trips);
+      // var flightPath = new google.maps.Polyline({
+      //   path: trips[0],
+      //   geodesic: true,
+      //   strokeColor: '#FF0000',
+      //   strokeOpacity: 1.0,
+      //   strokeWeight: 2
+      // });
+      // flightPath.setMap(map);
+    });
+
+    function addLine() {
+      flightPath.setMap(map);
+    }
+
+    function removeLine() {
+      flightPath.setMap(null);
+    }
+
+    // Heatmap data: 500 Points
+    function getPoints() {
+      var points = [];
+      $.ajax({
+        type: "GET",
+        url: "http://localhost:8888/GoogleHackathon/resources/data/heapmap9.json",
+        dataType: "json",
+        success: function (data) {
+          data.forEach(function (item, index, array) {
+            points[index] = {
+              location: new google.maps.LatLng(item["pickup_latitude"], item["pickup_longitude"]),
+              weight: item["passenger_count"]
+            };
+          });
+        }
+      });
+      return points
+    }
+
+    function getTrips() {
+      alert("getTrips");
+      $.ajax({
+        type: "POST",
+        url: "http://localhost:8000/smart/trails/",
+        data: data,
+        dataType: "json",
+        success: function (data) {
+          console.info(data);
+          for (var i = 0; i < polyline.length; i++) {
+            polyline[i].setMap(null);
+          }
+          data.forEach(function (item, index, array) {
+            var Path = [];
+            Path[0] = item["start"];
+            Path[1] = item["end"];
+            var flightPath = new google.maps.Polyline({
+              path: Path,
+              geodesic: true,
+              strokeColor: '#FF0000',
+              strokeOpacity: 1.0,
+              strokeWeight: 2,
+              map: map
+            });
+            polyline.push(flightPath);
+          });
+        },
+        done: function (data) {}
+      });
+    }
+
+    function takecar() {
+      alert("Please pick a location for Passenger");
+      google.maps.event.addListener(map, 'click', function (event) {
+        var marker = new google.maps.Marker({
+              position: {lat : event.latLng.lat(), lng : event.latLng.lng()},
+              map: map,
+              title: "Start of Passenger",
+              label: "Passenger"
+                          });
+            marks.push(marker);
+            getBestDestation(event.latLng.lat(),event.latLng.lng());
+      }); 
+    }
+
+    function getBestDestation(lat,lng){
+      console.info("getBestDestation");
+        var data  = {
+          "pickup_longitude" : lng,
+          "pickup_latitude" : lat
+        };
+        $.ajax({
+          type : "POST",
+          url : "http://localhost:8000/smart/bestendplace/",
+          dataType : "json",
+          data: data,
+          success: function(data){
+            console.info(data);
+            alert("Get Best destination for passenger");
+            data.forEach(function (item, index, array) {
+            console.info(item);
+            var marker = new google.maps.Marker({
+              position: item,
+              map: map,
+            });
+            marks.push(marker);
+            });
+          }
+        });
+       google.maps.event.clearInstanceListeners(map);
+    }
+
+    function getBestPickUp() {
+      $.ajax({
+        type: "GET",
+        url: "http://localhost:8888/GoogleHackathon/resources/data/suggestpickup1.json",
+        dataType: "json",
+        success: function (data) {
+          alert("Get Best PickUp Location for Driver");
+          data.forEach(function (item, index, array) {
+            var marker = new google.maps.Marker({
+              position: item,
+              map: map
+            });
+            marks.push(marker);
+          });
+        }
+      });
+     google.maps.event.clearInstanceListeners(map);
+    }
+
+    function pickacustomer() {
+      alert("Please pick a location for Driver");
+      google.maps.event.addListener(map, 'click', function (event) {
+        console.info(event.latLng.lat());
+        console.info(event.latLng.lng());
+        var marker = new google.maps.Marker({
+              position: {lat : event.latLng.lat(), lng : event.latLng.lng()},
+              map: map,
+              title: "Start of Driver",
+              label: "Driver"
+            });
+            marks.push(marker);
+        getBestPickUp();
+      });
+      // google.maps.event.removeListener(listenerHandle);
+      
+    }
+  </script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyApBu6ygRRnm0I1Z1av7ofaz4N99fu4Dzg&libraries=visualization&callback=initMap">
+  </script>
+  <script type="text/javascript" src="./js/bootstrap-datetimepicker.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="./js/locales/bootstrap-datetimepicker.zh-CN.js" charset="UTF-8"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js"></script>
+  <script src="./js/moment.min.js"></script>
+  <script src="./js/moment-with-locales.js"></script>
+</body>
+
+</html>
